@@ -9,6 +9,11 @@ Daiana es una amante de los animales y una profesional dedicada al servicio al c
 3. Rubén Cruz - Diseñador, Técnico Informatico profecional y personal:
 Rubén es un entusianta creador de diseños de marketing. Realista, Responable, Dispuesto a correr riesgos para lo que sea necesario para que los diseños sean los más destacados y prolijos que otros diseñadores, con la mente enfocada en el trabajo, donde ve una oprtunidad la aprovecha. 
 
+
+Eduardo Lino - atención al cliente, gestión de quejas y testeador de productos:
+Eduardo es amante de los animales especialmente de los gatos. Es alguien realmente muy calmado y tranquilo, puede resolver problemas de manera que ambas partes salgan beneficiadas. También verifica que los productos estén en buen estado antes de que sean entregados
+
+
 Este equipo multidisciplinario, motivado y comprometido trabaja en conjunto para garantizar que CatNeko ofrezca la mejor experiencia y productos excepcionales a todos los amantes de los gatos.
 
 
