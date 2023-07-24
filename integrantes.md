@@ -16,7 +16,7 @@ Eduardo es amante de los animales especialmente de los gatos. Es alguien realmen
 
 Este equipo multidisciplinario, motivado y comprometido trabaja en conjunto para garantizar que CatNeko ofrezca la mejor experiencia y productos excepcionales a todos los amantes de los gatos.
 
-Matias Ramos- Desarrollador web y tecnología:
+5. Matias Ramos- Desarrollador web y tecnología:
 Matias es un talentoso desarrollador web con experiencia en comercio electrónico. Es el encargado de mantener el sitio web de CatNeko funcionando sin problemas, optimizando la experiencia del usuario y asegurándose de que las operaciones de compra sean seguras y eficientes.
 
 
