@@ -14,9 +14,9 @@ Rubén es un entusianta creador de diseños de marketing. Realista, Responable, 
 Eduardo es amante de los animales especialmente de los gatos. Es alguien realmente muy calmado y tranquilo, puede resolver problemas de manera que ambas partes salgan beneficiadas. También verifica que los productos estén en buen estado antes de que sean entregados
 
 
-Este equipo multidisciplinario, motivado y comprometido trabaja en conjunto para garantizar que CatNeko ofrezca la mejor experiencia y productos excepcionales a todos los amantes de los gatos.
-
 5. Matias Ramos- Desarrollador web y tecnología:
 Matias es un talentoso desarrollador web con experiencia en comercio electrónico. Es el encargado de mantener el sitio web de CatNeko funcionando sin problemas, optimizando la experiencia del usuario y asegurándose de que las operaciones de compra sean seguras y eficientes.
 
 
+
+Este equipo multidisciplinario, motivado y comprometido trabaja en conjunto para garantizar que CatNeko ofrezca la mejor experiencia y productos excepcionales a todos los amantes de los gatos.
